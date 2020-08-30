@@ -28,7 +28,7 @@ I'm a highschool student from south Delhi ,passionate about the inner workings o
 
 <a href="https://twitter.com/geniuspulsating" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="geniuspulsating" height="30" width="30" /></a>
 
-<a href="https://instagram.com/exotic_hadron3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="exotic_hadron3" height="30" width="30" /></a>
+<a href="https://instagram.com/pulsating_genius" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="exotic_hadron3" height="30" width="30" /></a>
 
 <a href="https://discord.gg/yC6Hwvk">
   <img align="left" alt="Abhishek's Discord" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
