@@ -13,7 +13,7 @@ I'm a highschool student from south Delhi ,passionate about the inner workings o
 
 - 💬 Ask me about **anything physics**
 
-- 📫 How to reach me **stephix123@gmail.com**
+- 📫 How to reach me **amangd1618@gmail.com**
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
