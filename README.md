@@ -33,10 +33,10 @@ I'm a highschool student from south Delhi ,passionate about the inner workings o
 <a href="https://discord.gg/yC6Hwvk">
   <img align="left" alt="Abhishek's Discord" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-
 </p>
-⚡ Technologies
 
+
+⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
