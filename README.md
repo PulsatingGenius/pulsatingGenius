@@ -39,12 +39,8 @@ I'm a highschool student from south Delhi ,passionate about the inner workings o
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+
+# ARDUINO
+
