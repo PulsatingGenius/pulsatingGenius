@@ -4,9 +4,7 @@
 I'm a highschool student from south Delhi ,passionate about the inner workings of the universe and is on a journey of exploring the Genesis of the universe
 and i'm learning to code in order simulate real world phenomenons and find a coding solution to real world problems 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
-
+  
 
 - 🌱 I’m currently learning **arduino , python**
 
