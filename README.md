@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman anand</h1>
 
-<h3 align="center">A passionately curious guy</h3>
-I'm a highschool student from south Delhi ,passionate about the inner workings of the universe and is on a journey of exploring the Genesis of the universe
-and i'm learning to code in order simulate real world phenomenons and find a coding solution to real world problems 
-<p align="center">
+
   
 
 - 🌱 I’m currently learning **arduino , python**
