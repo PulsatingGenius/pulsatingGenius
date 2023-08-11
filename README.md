@@ -3,11 +3,11 @@
 
   
 
-- 🌱 I’m currently learning **arduino , python**
+- 🌱 I’m currently learning **Arduino , Java**
 
-- 💬 Ask me about **anything physics**
 
-- 📫 How to reach me **amangd1618@gmail.com**
+
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
