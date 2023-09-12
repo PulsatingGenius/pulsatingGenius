@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulsatinggenius" alt="pulsatinggenius" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pulsatinggenius&show_icons=true&theme=dracula" alt="pulsatinggenius" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pulsatinggenius&show_icons=true&theme=dracula" alt="pulsatinggenius" /></p>
 
 
 
