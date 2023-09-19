@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman anand</h1>
 
 
-<img style="width:550px;" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img style="width:450px;" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ## Profile Views
 
