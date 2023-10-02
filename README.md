@@ -42,4 +42,4 @@
   <a href="https://github.com/PulsatingGenius">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PulsatingGenius&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
-
+[![An image of @PulsatingGenius's Holopin badges](https://holopin.me/PulsatingGenius)](https://holopin.io/@PulsatingGenius)
