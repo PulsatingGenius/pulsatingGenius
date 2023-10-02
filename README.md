@@ -29,7 +29,7 @@
 
 
 ## Languages I Know:
-<p align="left"> <a href="https://github.com/PulsatingGenius"><img src="https://skillicons.dev/icons?i=vscode,java,replit,github,css,html,js,bots"> </a> </p>
+<p align="left"> <a href="https://github.com/PulsatingGenius"><img src="https://skillicons.dev/icons?i=vscode,java,replit,github,css,html,js,python"> </a> </p>
 
 ## My Stats:
 <p align="center">
